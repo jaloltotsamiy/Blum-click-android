@@ -5,6 +5,7 @@ Blum
 // @version      2.6
 // @namespace    Jalol
 // @author       Jalol
+// @updateURL 
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/ilfae/ilfae/main/logo.webp
